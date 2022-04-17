@@ -1,5 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsaneh-sarboland&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsaneh-sarboland&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsaneh-sarboland&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsaneh-sarboland&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afsaneh-sarboland)](https://github.com/anuraghazra/github-readme-stats)
