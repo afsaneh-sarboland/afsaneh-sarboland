@@ -23,7 +23,7 @@
  
  
 </div>
-<h2>Afsaneh</h2><p> is a person who has been enthusiastic about programming and coding since adolescence, I started studying computer engineering at Bachelor's level, Now I have been studying Artificial Intelligence, I have always been learning to program and have a keen interest in this field, I am here to collaborate with your company as a committed and creative developer.</p>
+<h2>Afsaneh</h2><p> is a person who has been enthusiastic about programming and coding since adolescence, I started studying computer engineering at my Bachelor's level and I graduated in Artificial Intelligence at the master's level, I have always been learning to program and have a keen interest in this field, I am here to collaborate with your company as a committed and creative developer.</p>
 
 <br>
 
