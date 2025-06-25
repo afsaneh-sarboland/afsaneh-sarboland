@@ -23,15 +23,16 @@
  
  
 </div>
-<h2>Afsaneh</h2><p> is a person who has been enthusiastic about programming and coding since adolescence, I started studying computer engineering at my Bachelor's level and I graduated in Artificial Intelligence at the master's level, I have always been learning to program and have a keen interest in this field, I am here to collaborate with your company as a committed and creative developer.</p>
+<h2>Afsaneh</h2>
+<p>I am a software engineer with a Master's degree in Artificial Intelligence and professional experience as an IT expert in the machinery industry. I am passionate about technology, data, and innovation, and I’m continuously expanding my skills in data analysis. Alongside my job, I mentor Python learners at MaktabSharif and enjoy helping others grow in the field of programming. </p>
 
 <br>
 
-Skills: Python - Django - DRF - Network - HTML - CSS - JS - C++ - Photoshop - Bootstrap 
+Skills: Power BI, SSAS, SQL Server, SSIS, Power BI Report Server, Python (Numpy, Pandas), Django: (DRF, Network, HTML, CSS, JS, Bootstrap), C++, Photoshop  
 
-- 🔭 I’m currently working on  MaktabSharif Coding Bootcamp 
-- 🌱 I’m currently learning Python - Django - Rest Full API 
-- 👯 I’m looking to collaborate on your company 
-- 💬 Ask me about python - django 
+- 🔭 I’m currently working as IT Expert
+- 🌱 I’m currently learning Data Analyst
+- 👯 I’m looking to grow my skills
+- 💬 Ask me about Power BI, SQL Server, Python - Django 
 - 📫 How to reach me: afsanehsarboland@gmail.com 
 
