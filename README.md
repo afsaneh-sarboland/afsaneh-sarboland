@@ -34,5 +34,4 @@ Skills: Power BI, SSAS, SQL Server, SSIS, Power BI Report Server, Python (Numpy,
 - 🌱 I’m currently learning Data Analyst
 - 👯 I’m looking to grow my skills
 - 💬 Ask me about Power BI, SQL Server, Python - Django 
-- 📫 How to reach me: afsanehsarboland@gmail.com 
 
